@@ -3,6 +3,9 @@ This project was to test different formations for entities
 
 By: Angus Poole
 
+## VIDEO
+https://www.youtube.com/watch?v=_fD1sUb-mgA
+
 ## COMPILING/RUNNING:
 Compile/Run in x86/Release
 
